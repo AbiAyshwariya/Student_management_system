@@ -1,0 +1,2 @@
+
+The project utilizes a relational database management system (RDBMS) like MySQL or PostgreSQL for data storage and management. The database schema includes tables for student profiles, courses, attendance records, grades, user authentication, and other relevant data. SQL queries are used to perform CRUD operations, manage relationships between entities, and generate reports. The RDBMS ensures data consistency, integrity, and scalability, crucial for a robust Student Management System.
