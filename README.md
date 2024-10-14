@@ -1,5 +1,10 @@
 # Student_management_system
 This GitHub repo, "Student Management System," offers role-based authentication, CRUD operations for students/courses, attendance tracking, grading, reporting, and notifications. Tech stack: Python (Flask/Django), HTML/CSS/JS, MySQL/PostgreSQL, Git.
+![image](https://github.com/user-attachments/assets/63269f8e-6e12-4585-bb31-2e3e68e81ffb)
+![image](https://github.com/user-attachments/assets/5812da8e-a79e-44ef-b7ad-93ef84e789b6)
+![image](https://github.com/user-attachments/assets/26bbb7d2-3c31-455e-ac59-60c49d356ddf)
+
+
 
 Here is a description of a GitHub repository for a DBMS project titled "Student Management System":
 
